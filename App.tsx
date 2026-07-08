@@ -48,7 +48,7 @@ const CAR_DATA: Car[] = [
   { 
     id: '4', name: 'Toyota Innova Reborn', category: 'MPV', transmission: 'Automatic', 
     price: 650000, rating: 4.9, passengers: 7,
-    imageUrl: 'https://th.bing.com/th/id/OIP.kM1mt97Dy43AB6-RNH5f0QHaEK?w=304&h=180&c=7&r=0&o=7&pid=1.7&rm=3' 
+    imageUrl: 'https://imgcdn.oto.com/large/gallery/color/38/1240/toyota-kijang-innova-color-860711.jpg' 
   },
   { 
     id: '5', name: 'Honda HR-V', category: 'SUV', transmission: 'Automatic', 
